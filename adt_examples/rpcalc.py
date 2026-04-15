@@ -1,7 +1,6 @@
+"""Polish calculator implementation."""
 from numbers import Number
 from math import sin, cos
-
-"""Polish calculator implementation."""
 
 
 class RPCalc:
